@@ -1,6 +1,6 @@
 # hello-world
 Aprobak egiteko biltegia
 
-[![GitPitch]]
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/hello-world/Zuzendu-nahirik?grs=github&t=white)
 
 Hamen aldaketak
