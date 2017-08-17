@@ -12,8 +12,8 @@
 
 ## Kode apurtxutxu bat be bai
 
-´´´r
+```r
 hau <- c("h","a","u")
-´´´
+```
 
 
