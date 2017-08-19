@@ -18,5 +18,9 @@ hau <- c("h","a","u")
 
 # amaitu?
 
+---
+
+![2000px-Stein_Glass_(Beer).svg](/home/juan/Deskargak/RepoClon/xelouguould/2000px-Stein_Glass_(Beer).svg.png)
+
 
 

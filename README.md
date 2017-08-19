@@ -12,3 +12,9 @@ Hamen aldaketak
 
 
 GitKraken erabiltzen ikasteko, oraingoan
+
+* Igoten dau
+
+* Ia erretratuk be igoten dituzan (?)
+
+  ​
