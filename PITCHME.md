@@ -20,5 +20,5 @@ hau <- c("h","a","u")
 
 ---
 
-![2000px-Stein_Glass_(Beer).svg](/hello-world/xelouguould/2000px-Stein_Glass_(Beer).svg.png)
+![2000px-Stein_Glass_(Beer).svg](/2000px-Stein_Glass_(Beer).svg.png)
 
