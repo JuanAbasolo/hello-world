@@ -20,7 +20,5 @@ hau <- c("h","a","u")
 
 ---
 
-![2000px-Stein_Glass_(Beer).svg](/home/juan/Deskargak/RepoClon/xelouguould/2000px-Stein_Glass_(Beer).svg.png)
-
-
+![2000px-Stein_Glass_(Beer).svg](/hello-world/xelouguould/2000px-Stein_Glass_(Beer).svg.png)
 
